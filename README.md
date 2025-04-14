@@ -17,7 +17,7 @@ BerIP may cover:
 1. Fork this repo
 2. Create a new file `BerIP-xxxx.md` from `BerIP-template.md`
 3. Submit a PR
-4. The community reviews, discusses~~, and eventually merges~~
+4. The community reviews, discusses ~~, and eventually merges~~
 
 ## Statuses
 
