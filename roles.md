@@ -1,4 +1,4 @@
-# 👥 Roles and Responsibilities
+# Roles and Responsibilities
 
 This document lists the individuals currently serving in key roles in the BerIP process for the Berachain ecosystem.
 

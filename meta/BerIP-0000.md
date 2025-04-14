@@ -45,7 +45,6 @@ BerIPs are intended to:
 | **Rejected** | Declined due to flaws, lack of consensus, or redundancy |
 | **Withdrawn** | Author has decided to stop pursuing the proposal |
 
-
 ---
 
 ## BerIP Workflow
@@ -66,3 +65,33 @@ Accepted         Rejected         Withdrawn
    v
 Final
 ```
+
+---
+
+## Roles
+
+The individuals responsible for managing and participating in the BerIP process — including editors, maintainers, and authors — are listed in [roles.md](../roles.md).
+
+For an up-to-date list of who currently holds each role, please refer to that file.
+
+---
+
+## Status Transitions and Authority
+
+BerIP status transitions follow a structured process to ensure transparency and consensus.
+
+| Status        | Can be Set By       | Notes |
+|---------------|---------------------|-------|
+| `Draft`       | Proposal Author     | Initial status on submission |
+| `Review`      | Editors              | When the proposal is complete and ready for wider evaluation |
+| `Accepted`    | Editors (with input from Maintainers & Community) | Indicates strong consensus and readiness for implementation |
+| `Final`       | Editors              | After successful implementation or deployment |
+| `Rejected`    | Editors (with community consensus) | For proposals that are declined or obsolete |
+| `Withdrawn`   | Proposal Author      | Author can withdraw at any stage before `Final` |
+| `Living`      | Editors              | For documents that remain open-ended or continuously updated |
+
+**Important Notes:**
+
+- Editors act as neutral stewards — not gatekeepers — and apply status changes based on defined process and community input.
+- Maintainers may suggest or advise on status transitions based on technical feasibility.
+- Authors may request status changes, but editors are responsible for applying them.
