@@ -28,7 +28,7 @@ BerIPs are intended to:
 ## BerIP Types
 
 - **Core** – Protocol changes requiring consensus (e.g., forks, state rules, VM logic)
-~~- **Standard** – Ecosystem standards (e.g., wallet formats, smart contract interfaces)~~
+- ~~**Standard** – Ecosystem standards (e.g., wallet formats, smart contract interfaces)~~
 - **Informational** – Descriptive content (e.g., historical context, economic models)
 - **Meta** – Process changes to the BerIP system itself
 
@@ -44,6 +44,7 @@ BerIPs are intended to:
 | **Final**  | Implemented, deployed, or widely adopted; no further changes expected |
 | **Rejected** | Declined due to flaws, lack of consensus, or redundancy |
 | **Withdrawn** | Author has decided to stop pursuing the proposal |
+
 
 ---
 
@@ -64,3 +65,4 @@ Accepted         Rejected         Withdrawn
    |
    v
 Final
+```

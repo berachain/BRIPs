@@ -7,6 +7,7 @@ This repository tracks formal improvement proposals for the Berachain ecosystem.
 A **BerIP** is a design document providing information to the community, describing a new feature, process, or standard for the blockchain.
 
 BerIP may cover:
+
 - Core protocol changes
 - ~~Smart contract standards~~
 - ~~Governance process updates~~
@@ -33,5 +34,3 @@ BerIP may cover:
 | BerIP | Title | Author | Status |
 |-----|-------|--------|--------|
 | [BerIP-0001](BerIPs/BerIP-0001.md) | Example Proposal | @alice | Draft |
-
-
