@@ -1,7 +1,7 @@
 ---
 mip: 0000
 title: BerIP Process and Guidelines
-author: <aBear> <aBear@berachain.com>
+author: <aBear> <abear@berachain.com>
 status: Final
 created: 2025-04-14
 type: Meta
