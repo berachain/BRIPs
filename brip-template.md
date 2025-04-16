@@ -5,7 +5,7 @@ author: GitHub handle or name <email>
 status: Draft
 created: 2025-04-14
 type: Core | Standard | Informational | Meta
-requires: [List of BerIPs, if any]
+requires: [List of BRIPs, if any]
 ---
 
 ## Summary

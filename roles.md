@@ -1,14 +1,14 @@
 # Roles and Responsibilities
 
-This document lists the individuals currently serving in key roles in the BerIP process for the Berachain ecosystem.
+This document lists the individuals currently serving in key roles in the BRIP process for the Berachain ecosystem.
 
-For details on what these roles mean, see [BerIP-0000: Process and Guidelines](meta/BerIP-0000.md).
+For details on what these roles mean, see [BRIP-0000: Process and Guidelines](meta/BRIP-0000.md).
 
 ---
 
 ## Editors
 
-Editors are responsible for managing the BerIP lifecycle, ensuring proposals follow the correct structure, and assigning numbers/statuses.
+Editors are responsible for managing the BRIP lifecycle, ensuring proposals follow the correct structure, and assigning numbers/statuses.
 
 | Name / Handle | Role / Affiliation | GitHub |
 |---------------|--------------------|--------|
@@ -19,7 +19,7 @@ Editors are responsible for managing the BerIP lifecycle, ensuring proposals fol
 
 ## Maintainers
 
-Maintainers evaluate the technical feasibility of BerIPs, provide implementation feedback, and integrate accepted proposals into the protocol.
+Maintainers evaluate the technical feasibility of BRIPs, provide implementation feedback, and integrate accepted proposals into the protocol.
 
 | Name / Handle | Role / Team        | GitHub |
 |---------------|--------------------|--------|
@@ -30,7 +30,7 @@ Maintainers evaluate the technical feasibility of BerIPs, provide implementation
 
 ## Proposal Authors
 
-Anyone can become an author by submitting a new BerIP.  
+Anyone can become an author by submitting a new BRIP.  
 See the [Pull Requests](https://github.com/berachain/berips/pulls) tab for current contributors.
 
 ---

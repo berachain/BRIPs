@@ -1,12 +1,12 @@
-# Berachain Improvement Proposals (BerIPs)
+# Berachain Improvement Proposals (BRIPs)
 
 This repository tracks formal improvement proposals for the Berachain ecosystem.
 
-## What is a BerIP?
+## What is a BRIP?
 
-A **BerIP** is a design document providing information to the community, describing a new feature, process, or standard for the blockchain.
+A **BRIP** is a design document providing information to the community, describing a new feature, process, or standard for the blockchain.
 
-BerIP may cover:
+BRIP may cover:
 
 - Core protocol changes
 - ~~Smart contract standards~~
@@ -16,7 +16,7 @@ BerIP may cover:
 ## How it works
 
 1. Fork this repo
-2. Create a new file `BerIP-xxxx.md` from `BerIP-template.md`
+2. Create a new file `BRIP-xxxx.md` from `BRIP-template.md`
 3. Submit a PR
 4. The community reviews, discusses ~~, and eventually merges~~
 
@@ -31,6 +31,6 @@ BerIP may cover:
 
 ## Index of Proposals
 
-| BerIP | Title | Author | Status |
+| BRIP | Title | Author | Status |
 |-----|-------|--------|--------|
-| [BerIP-0001](BerIPs/BerIP-0001.md) | Example Proposal | @alice | Draft |
+| [BRIP-0001](BRIPs/BRIP-0001.md) | Example Proposal | @alice | Draft |
