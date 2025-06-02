@@ -34,4 +34,4 @@ BRIP may cover:
 | BRIP | Title | Author | Status |
 |-----|-------|--------|--------|
 | [BRIP-0000](meta/BRIP-0000.md) | Process and Guidelines | aBear | Final |
-| [BRIP-0001](meta/BRIP-0001.md) | Example Proposal | calbera, rezbera | Review |
+| [BRIP-0001](meta/BRIP-0001.md) | Execution Layer Forked Clients | calbera, rezbera | Review |
