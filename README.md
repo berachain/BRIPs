@@ -16,7 +16,7 @@ BRIP may cover:
 ## How it works
 
 1. Fork this repo
-2. Create a new file `BRIP-xxxx.md` from `BRIP-template.md`
+2. Create a new file `BRIP-xxxx.md` from `BRIP-template.md` in the `meta` directory
 3. Submit a PR
 4. The community reviews, discusses ~~, and eventually merges~~
 
@@ -33,4 +33,5 @@ BRIP may cover:
 
 | BRIP | Title | Author | Status |
 |-----|-------|--------|--------|
-| [BRIP-0001](BRIPs/BRIP-0001.md) | Example Proposal | @alice | Draft |
+| [BRIP-0000](meta/BRIP-0000.md) | Process and Guidelines | aBear | Final |
+| [BRIP-0001](meta/BRIP-0001.md) | Example Proposal | calbera, rezbera | Review |

@@ -12,8 +12,7 @@ Editors are responsible for managing the BRIP lifecycle, ensuring proposals foll
 
 | Name / Handle | Role / Affiliation | GitHub |
 |---------------|--------------------|--------|
-| Alice Example | Core contributor   | [@alice](https://github.com/alice) |
-| Bob Builder   | Ecosystem steward  | [@bob](https://github.com/bob) |
+| Berachain Team | Core contributors   | [@core](https://github.com/orgs/berachain/teams/core) |
 
 ---
 
@@ -23,15 +22,14 @@ Maintainers evaluate the technical feasibility of BRIPs, provide implementation 
 
 | Name / Handle | Role / Team        | GitHub |
 |---------------|--------------------|--------|
-| Carla Chain   | Core dev           | [@carla](https://github.com/carla) |
-| Dev DAO       | Smart contracts    | [@dev-dao](https://github.com/dev-dao) |
+| Berachain Team | Core contributors   | [@core](https://github.com/orgs/berachain/teams/core) |
 
 ---
 
 ## Proposal Authors
 
 Anyone can become an author by submitting a new BRIP.  
-See the [Pull Requests](https://github.com/berachain/berips/pulls) tab for current contributors.
+See the [Pull Requests](https://github.com/berachain/BRIPs/pulls) tab for current contributors.
 
 ---
 
