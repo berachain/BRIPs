@@ -35,3 +35,4 @@ BRIP may cover:
 |-----|-------|--------|--------|
 | [BRIP-0000](meta/BRIP-0000.md) | Process and Guidelines | aBear | Final |
 | [BRIP-0001](meta/BRIP-0001.md) | Execution Layer Forked Clients | calbera, rezbera | Review |
+| [BRIP-0002](meta/BRIP-0002.md) | Gas Fee Modifications | rezbera | Draft |
